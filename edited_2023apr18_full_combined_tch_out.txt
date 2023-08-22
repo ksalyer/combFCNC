@@ -1,0 +1,878 @@
+ <<< Combine >>> 
+>>> method used is AsymptoticLimits
+>>> random number generator seed is 123456
+Channel dc_hbb_year_2016_DNN_Hct_b2j3 will use autoMCStats with settings: event-threshold=0.1, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bindc_hbb_year_2016_DNN_Hct_b2j3
+Poisson cut-off: 0.1
+Processes excluded for sums: Hct
+============================================================
+Bin        Contents        Error           Notes                         
+0          101.046193      8.552380        total sum                     
+0          101.038590      8.552376        excluding marked processes    
+0          140.000000      11.832160       Unweighted events, alpha=0.721759
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j3_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          3199.850501     97.166284       total sum                     
+1          3199.368156     97.166261       excluding marked processes    
+1          1084.000000     32.924155       Unweighted events, alpha=2.951892
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j3_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          14946.718964    157.161603      total sum                     
+2          14943.925812    157.161523      excluding marked processes    
+2          9041.000000     95.084173       Unweighted events, alpha=1.653215
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j3_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          29772.324259    296.709496      total sum                     
+3          29764.059082    296.709374      excluding marked processes    
+3          10063.000000    100.314505      Unweighted events, alpha=2.958593
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j3_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          40045.097253    384.879955      total sum                     
+4          40029.425537    384.879775      excluding marked processes    
+4          10817.000000    104.004808      Unweighted events, alpha=3.702052
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j3_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          42763.539471    438.877653      total sum                     
+5          42741.656372    438.877437      excluding marked processes    
+5          9485.000000     97.390965       Unweighted events, alpha=4.508544
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j3_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          49487.713037    484.046967      total sum                     
+6          49457.286377    484.046696      excluding marked processes    
+6          10440.000000    102.176318      Unweighted events, alpha=4.740202
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j3_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          52073.152874    470.443951      total sum                     
+7          52034.545654    470.443594      excluding marked processes    
+7          12234.000000    110.607414      Unweighted events, alpha=4.256429
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j3_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          43645.100624    406.712774      total sum                     
+8          43604.654297    406.712339      excluding marked processes    
+8          11495.000000    107.214738      Unweighted events, alpha=3.796877
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j3_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+9          32574.239479    376.439984      total sum                     
+9          32537.524475    376.439558      excluding marked processes    
+9          7471.000000     86.434947       Unweighted events, alpha=4.360091
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j3_bin9[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+10         21680.900288    299.400911      total sum                     
+10         21647.225891    299.400417      excluding marked processes    
+10         5228.000000     72.304910       Unweighted events, alpha=4.147074
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j3_bin10[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+11         15055.754545    266.726979      total sum                     
+11         15025.316376    266.726483      excluding marked processes    
+11         3173.000000     56.329388       Unweighted events, alpha=4.744959
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j3_bin11[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+12         7168.908266     142.358300      total sum                     
+12         7148.352081     142.357680      excluding marked processes    
+12         2521.000000     50.209561       Unweighted events, alpha=2.843676
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j3_bin12[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+13         1753.611174     57.094924       total sum                     
+13         1745.121391     57.094292       excluding marked processes    
+13         934.000000      30.561414       Unweighted events, alpha=1.877528
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j3_bin13[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+14         336.486060      18.821181       total sum                     
+14         333.790421      18.820570       excluding marked processes    
+14         315.000000      17.748239       Unweighted events, alpha=1.068210
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j3_bin14[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel dc_hbb_year_2016_DNN_Hct_b2j4 will use autoMCStats with settings: event-threshold=0.1, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bindc_hbb_year_2016_DNN_Hct_b2j4
+Poisson cut-off: 0.1
+Processes excluded for sums: Hct
+============================================================
+Bin        Contents        Error           Notes                         
+0          1283.799986     30.243175       total sum                     
+0          1283.747406     30.243168       excluding marked processes    
+0          1802.000000     42.449971       Unweighted events, alpha=0.712431
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j4_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          10265.947382    151.297156      total sum                     
+1          10264.647507    151.297115      excluding marked processes    
+1          4603.000000     67.845413       Unweighted events, alpha=2.230273
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j4_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          26340.270848    259.862014      total sum                     
+2          26334.820801    259.861915      excluding marked processes    
+2          10270.000000    101.341008      Unweighted events, alpha=2.564778
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j4_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          41296.965425    284.301950      total sum                     
+3          41284.848022    284.301751      excluding marked processes    
+3          21087.000000    145.213636      Unweighted events, alpha=1.958409
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j4_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          62119.768351    336.788426      total sum                     
+4          62096.480225    336.788103      excluding marked processes    
+4          33995.000000    184.377330      Unweighted events, alpha=1.827321
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j4_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          79398.304146    500.681662      total sum                     
+5          79362.302979    500.681328      excluding marked processes    
+5          25125.000000    158.508675      Unweighted events, alpha=3.160132
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j4_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          79641.859123    581.684052      total sum                     
+6          79597.144287    581.683691      excluding marked processes    
+6          18725.000000    136.839322      Unweighted events, alpha=4.253237
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j4_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          73846.815529    463.292605      total sum                     
+7          73791.611816    463.292042      excluding marked processes    
+7          25369.000000    159.276489      Unweighted events, alpha=2.910908
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j4_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          64998.979809    460.508192      total sum                     
+8          64937.113770    460.507552      excluding marked processes    
+8          19884.000000    141.010638      Unweighted events, alpha=3.268909
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j4_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+9          53721.750183    411.728325      total sum                     
+9          53657.291016    411.727584      excluding marked processes    
+9          16984.000000    130.322676      Unweighted events, alpha=3.163080
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j4_bin9[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+10         41245.750549    389.573163      total sum                     
+10         41181.672852    389.572382      excluding marked processes    
+10         11175.000000    105.711873      Unweighted events, alpha=3.690895
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j4_bin10[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+11         27172.117641    251.115255      total sum                     
+11         27118.325195    251.114240      excluding marked processes    
+11         11662.000000    107.990740      Unweighted events, alpha=2.329971
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j4_bin11[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+12         13015.776070    138.367881      total sum                     
+12         12980.797485    138.366679      excluding marked processes    
+12         8801.000000     93.813645       Unweighted events, alpha=1.478897
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j4_bin12[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+13         4851.108669     131.495031      total sum                     
+13         4832.430939     131.494363      excluding marked processes    
+13         1351.000000     36.755952       Unweighted events, alpha=3.590754
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j4_bin13[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+14         1668.320927     113.088060      total sum                     
+14         1659.227341     113.087685      excluding marked processes    
+14         215.000000      14.662878       Unweighted events, alpha=7.759632
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j4_bin14[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+15         396.875331      19.435986       total sum                     
+15         392.850582      19.435037       excluding marked processes    
+15         409.000000      20.223748       Unweighted events, alpha=0.970355
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b2j4_bin15[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel dc_hbb_year_2016_DNN_Hct_b3j3 will use autoMCStats with settings: event-threshold=0.1, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bindc_hbb_year_2016_DNN_Hct_b3j3
+Poisson cut-off: 0.1
+Processes excluded for sums: Hct
+============================================================
+Bin        Contents        Error           Notes                         
+0          1647.687927     82.683972       total sum                     
+0          1645.263008     82.683852       excluding marked processes    
+0          396.000000      19.899749       Unweighted events, alpha=4.160828
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j3_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          2121.783523     62.909308       total sum                     
+1          2116.445404     62.908954       excluding marked processes    
+1          1132.000000     33.645208       Unweighted events, alpha=1.874367
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j3_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          2825.230905     87.225539       total sum                     
+2          2815.843491     87.225094       excluding marked processes    
+2          1042.000000     32.280025       Unweighted events, alpha=2.711354
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j3_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          2597.967054     67.991922       total sum                     
+3          2586.790268     67.991253       excluding marked processes    
+3          1447.000000     38.039453       Unweighted events, alpha=1.795416
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j3_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          1757.526115     39.736345       total sum                     
+4          1746.666412     39.735254       excluding marked processes    
+4          1932.000000     43.954522       Unweighted events, alpha=0.909693
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j3_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          1190.563236     70.202472       total sum                     
+5          1181.874733     70.201982       excluding marked processes    
+5          283.000000      16.822604       Unweighted events, alpha=4.206937
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j3_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          558.036013      21.719237       total sum                     
+6          551.167252      21.717997       excluding marked processes    
+6          644.000000      25.377155       Unweighted events, alpha=0.866516
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j3_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          319.780508      15.361552       total sum                     
+7          314.680187      15.360281       excluding marked processes    
+7          420.000000      20.493902       Unweighted events, alpha=0.761382
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j3_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          225.600469      12.894572       total sum                     
+8          218.284431      12.892368       excluding marked processes    
+8          287.000000      16.941074       Unweighted events, alpha=0.786064
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j3_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel dc_hbb_year_2016_DNN_Hct_b3j4 will use autoMCStats with settings: event-threshold=0.1, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bindc_hbb_year_2016_DNN_Hct_b3j4
+Poisson cut-off: 0.1
+Processes excluded for sums: Hct
+============================================================
+Bin        Contents        Error           Notes                         
+0          371.558252      17.843714       total sum                     
+0          371.448849      17.843688       excluding marked processes    
+0          433.000000      20.808652       Unweighted events, alpha=0.858102
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j4_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          1502.310688     33.398223       total sum                     
+1          1501.214828     33.398070       excluding marked processes    
+1          2020.000000     44.944410       Unweighted events, alpha=0.743718
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j4_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          2711.231465     95.106940       total sum                     
+2          2708.996887     95.106832       excluding marked processes    
+2          811.000000      28.478062       Unweighted events, alpha=3.343072
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j4_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          4198.867133     58.072706       total sum                     
+3          4192.959717     58.072243       excluding marked processes    
+3          5213.000000     72.201108       Unweighted events, alpha=0.805461
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j4_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          7231.752069     109.310179      total sum                     
+4          7218.503876     109.309631      excluding marked processes    
+4          4361.000000     66.037868       Unweighted events, alpha=1.658278
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j4_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          10184.410933    128.066837      total sum                     
+5          10159.066711    128.065949      excluding marked processes    
+5          6293.000000     79.328431       Unweighted events, alpha=1.618371
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j4_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          10500.362000    191.943415      total sum                     
+6          10465.616333    191.942607      excluding marked processes    
+6          2973.000000     54.525224       Unweighted events, alpha=3.531908
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j4_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          7469.349239     79.775582       total sum                     
+7          7435.465942     79.773699       excluding marked processes    
+7          8688.000000     93.209442       Unweighted events, alpha=0.859732
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j4_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          4691.398899     89.520639       total sum                     
+8          4663.387726     89.519265       excluding marked processes    
+8          2714.000000     52.096065       Unweighted events, alpha=1.728592
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j4_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+9          2749.529638     46.862554       total sum                     
+9          2727.368408     46.860498       excluding marked processes    
+9          3387.000000     58.197938       Unweighted events, alpha=0.811789
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j4_bin9[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+10         1620.220345     37.045498       total sum                     
+10         1601.154984     37.043282       excluding marked processes    
+10         1868.000000     43.220366       Unweighted events, alpha=0.867356
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j4_bin10[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+11         897.327441      26.555103       total sum                     
+11         883.183624      26.552829       excluding marked processes    
+11         1106.000000     33.256578       Unweighted events, alpha=0.811327
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j4_bin11[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+12         459.547243      18.500052       total sum                     
+12         447.288822      18.497203       excluding marked processes    
+12         585.000000      24.186773       Unweighted events, alpha=0.785551
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b3j4_bin12[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel dc_hbb_year_2016_DNN_Hct_b4j4 will use autoMCStats with settings: event-threshold=0.1, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bindc_hbb_year_2016_DNN_Hct_b4j4
+Poisson cut-off: 0.1
+Processes excluded for sums: Hct
+============================================================
+Bin        Contents        Error           Notes                         
+0          156.881281      11.853381       total sum                     
+0          156.408094      11.853203       excluding marked processes    
+0          174.000000      13.190906       Unweighted events, alpha=0.901617
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b4j4_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          362.672335      16.509122       total sum                     
+1          361.420971      16.508788       excluding marked processes    
+1          479.000000      21.886069       Unweighted events, alpha=0.757145
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b4j4_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          592.581651      20.793348       total sum                     
+2          589.956047      20.792789       excluding marked processes    
+2          805.000000      28.372522       Unweighted events, alpha=0.736126
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b4j4_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          590.366153      20.844357       total sum                     
+3          586.501106      20.843537       excluding marked processes    
+3          792.000000      28.142495       Unweighted events, alpha=0.745412
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b4j4_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          466.648944      18.521107       total sum                     
+4          462.188019      18.520051       excluding marked processes    
+4          623.000000      24.959968       Unweighted events, alpha=0.749035
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b4j4_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          289.115899      14.492257       total sum                     
+5          285.066193      14.491049       excluding marked processes    
+5          387.000000      19.672316       Unweighted events, alpha=0.747070
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b4j4_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          199.087170      14.811255       total sum                     
+6          194.487478      14.809909       excluding marked processes    
+6          172.000000      13.114877       Unweighted events, alpha=1.157484
+  => Total parameter prop_bindc_hbb_year_2016_DNN_Hct_b4j4_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel dc_hbb_year_2017_DNN_Hct_b2j3 will use autoMCStats with settings: event-threshold=0.1, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bindc_hbb_year_2017_DNN_Hct_b2j3
+Poisson cut-off: 0.1
+Processes excluded for sums: Hct
+============================================================
+Bin        Contents        Error           Notes                         
+0          6933.305035     37.394272       total sum                     
+0          6932.406209     37.394143       excluding marked processes    
+0          34369.000000    185.388781      Unweighted events, alpha=0.201731
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j3_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          55215.211109    317.759739      total sum                     
+1          55198.760620    317.759431      excluding marked processes    
+1          30176.000000    173.712406      Unweighted events, alpha=1.829772
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j3_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          89830.095413    1233.504055     total sum                     
+2          89783.137695    1233.503828     excluding marked processes    
+2          5298.000000     72.787362       Unweighted events, alpha=16.955473
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j3_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          98570.890060    1267.478936     total sum                     
+3          98490.484009    1267.478553     excluding marked processes    
+3          6038.000000     77.704569       Unweighted events, alpha=16.325089
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j3_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          92853.032555    2156.408630     total sum                     
+4          92747.018311    2156.408334     excluding marked processes    
+4          1850.000000     43.011626       Unweighted events, alpha=50.190828
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j3_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          79996.549988    6227.445318     total sum                     
+5          79876.169434    6227.445201     excluding marked processes    
+5          165.000000      12.845233       Unweighted events, alpha=484.827576
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j3_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          57780.043037    3374.044951     total sum                     
+6          57660.126465    3374.044737     excluding marked processes    
+6          292.000000      17.088007       Unweighted events, alpha=197.876860
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j3_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          34265.212624    1633.040970     total sum                     
+7          34153.978333    1633.040564     excluding marked processes    
+7          437.000000      20.904545       Unweighted events, alpha=78.410098
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j3_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          12284.502480    368.117430      total sum                     
+8          12220.500793    368.116442      excluding marked processes    
+8          1102.000000     33.196385       Unweighted events, alpha=11.147461
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j3_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+9          922.489231      58.102383       total sum                     
+9          912.939682      58.101537       excluding marked processes    
+9          247.000000      15.716234       Unweighted events, alpha=3.734774
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j3_bin9[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel dc_hbb_year_2017_DNN_Hct_b2j4 will use autoMCStats with settings: event-threshold=0.1, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bindc_hbb_year_2017_DNN_Hct_b2j4
+Poisson cut-off: 0.1
+Processes excluded for sums: Hct
+============================================================
+Bin        Contents        Error           Notes                         
+0          60938.919280    94.302359       total sum                     
+0          60932.728394    94.301947       excluding marked processes    
+0          417503.000000   646.144721      Unweighted events, alpha=0.145960
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j4_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          142191.556175   150.508205      total sum                     
+1          142154.071045   150.506622      excluding marked processes    
+1          892087.000000   944.503573      Unweighted events, alpha=0.159392
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j4_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          143170.864677   160.963533      total sum                     
+2          143099.966797   160.960729      excluding marked processes    
+2          790386.000000   889.036557      Unweighted events, alpha=0.181140
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j4_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          129991.334709   169.832702      total sum                     
+3          129890.977539   169.828949      excluding marked processes    
+3          584971.000000   764.833969      Unweighted events, alpha=0.222218
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j4_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          111571.795540   159.457972      total sum                     
+4          111448.593262   159.453005      excluding marked processes    
+4          488522.000000   698.943488      Unweighted events, alpha=0.228386
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j4_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          91190.232712    144.641516      total sum                     
+5          91049.534668    144.635275      excluding marked processes    
+5          396284.000000   629.510921      Unweighted events, alpha=0.230113
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j4_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          69805.380692    132.396563      total sum                     
+6          69650.550293    132.389060      excluding marked processes    
+6          276787.000000   526.105503      Unweighted events, alpha=0.252199
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j4_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          49351.627380    114.729457      total sum                     
+7          49184.131104    114.720116      excluding marked processes    
+7          183811.000000   428.731851      Unweighted events, alpha=0.268491
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j4_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          27904.181549    94.809770       total sum                     
+8          27739.970215    94.798954       excluding marked processes    
+8          85626.000000    292.619206      Unweighted events, alpha=0.325884
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j4_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+9          4916.709503     36.269299       total sum                     
+9          4848.156982     36.257966       excluding marked processes    
+9          17879.000000    133.712378      Unweighted events, alpha=0.274999
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b2j4_bin9[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel dc_hbb_year_2017_DNN_Hct_b3j3 will use autoMCStats with settings: event-threshold=0.1, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bindc_hbb_year_2017_DNN_Hct_b3j3
+Poisson cut-off: 0.1
+Processes excluded for sums: Hct
+============================================================
+Bin        Contents        Error           Notes                         
+0          527.743330      13.841463       total sum                     
+0          526.657261      13.840992       excluding marked processes    
+0          1448.000000     38.052595       Unweighted events, alpha=0.364464
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b3j3_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          2236.027851     36.089646       total sum                     
+1          2227.809982     36.088318       excluding marked processes    
+1          3811.000000     61.733297       Unweighted events, alpha=0.586730
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b3j3_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          3387.203518     28.855241       total sum                     
+2          3368.641205     28.851648       excluding marked processes    
+2          13632.000000    116.756156      Unweighted events, alpha=0.248474
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b3j3_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          3691.077616     30.717730       total sum                     
+3          3660.760208     30.712366       excluding marked processes    
+3          14207.000000    119.193121      Unweighted events, alpha=0.259807
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b3j3_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          3446.029762     26.699675       total sum                     
+4          3408.465576     26.692430       excluding marked processes    
+4          16306.000000    127.694949      Unweighted events, alpha=0.211335
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b3j3_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          2871.662041     26.044817       total sum                     
+5          2829.757721     26.036803       excluding marked processes    
+5          11812.000000    108.683025      Unweighted events, alpha=0.243114
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b3j3_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          1763.029057     18.415542       total sum                     
+6          1727.153404     18.406084       excluding marked processes    
+6          8805.000000     93.834962       Unweighted events, alpha=0.200230
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b3j3_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          599.263568      11.195735       total sum                     
+7          584.226700      11.189442       excluding marked processes    
+7          2726.000000     52.211110       Unweighted events, alpha=0.219833
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b3j3_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel dc_hbb_year_2017_DNN_Hct_b3j4 will use autoMCStats with settings: event-threshold=0.1, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bindc_hbb_year_2017_DNN_Hct_b3j4
+Poisson cut-off: 0.1
+Processes excluded for sums: Hct
+============================================================
+Bin        Contents        Error           Notes                         
+0          12461.659312    46.187802       total sum                     
+0          12447.742371    46.186025       excluding marked processes    
+0          72637.000000    269.512523      Unweighted events, alpha=0.171561
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b3j4_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          13862.929134    50.382792       total sum                     
+1          13834.529297    50.379537       excluding marked processes    
+1          75409.000000    274.606992      Unweighted events, alpha=0.183837
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b3j4_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          12770.888489    53.822831       total sum                     
+2          12729.604980    53.818494       excluding marked processes    
+2          55946.000000    236.529068      Unweighted events, alpha=0.228272
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b3j4_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          10919.042660    43.428358       total sum                     
+3          10866.856506    43.421683       excluding marked processes    
+3          62632.000000    250.263861      Unweighted events, alpha=0.174336
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b3j4_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          8792.534206     43.673386       total sum                     
+4          8731.083069     43.665614       excluding marked processes    
+4          39981.000000    199.952494      Unweighted events, alpha=0.219918
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b3j4_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          6921.335838     35.550390       total sum                     
+5          6849.890961     35.539466       excluding marked processes    
+5          37149.000000    192.740759      Unweighted events, alpha=0.186313
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b3j4_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          5139.813812     29.540792       total sum                     
+6          5058.086731     29.525991       excluding marked processes    
+6          29347.000000    171.309661      Unweighted events, alpha=0.175139
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b3j4_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          3769.795799     24.663115       total sum                     
+7          3658.830963     24.639140       excluding marked processes    
+7          22051.000000    148.495791      Unweighted events, alpha=0.170958
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b3j4_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          778.585896      11.235185       total sum                     
+8          703.624783      11.200303       excluding marked processes    
+8          3947.000000     62.825154       Unweighted events, alpha=0.197260
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b3j4_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel dc_hbb_year_2017_DNN_Hct_b4j4 will use autoMCStats with settings: event-threshold=0.1, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bindc_hbb_year_2017_DNN_Hct_b4j4
+Poisson cut-off: 0.1
+Processes excluded for sums: Hct
+============================================================
+Bin        Contents        Error           Notes                         
+0          321.652044      7.985153        total sum                     
+0          321.129232      7.984833        excluding marked processes    
+0          1617.000000     40.211939       Unweighted events, alpha=0.198919
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b4j4_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          777.365388      10.819548       total sum                     
+1          775.090984      10.818487       excluding marked processes    
+1          5133.000000     71.644958       Unweighted events, alpha=0.151445
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b4j4_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          659.710044      10.337263       total sum                     
+2          656.259697      10.335536       excluding marked processes    
+2          4032.000000     63.498031       Unweighted events, alpha=0.163619
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b4j4_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          495.345851      8.681859        total sum                     
+3          491.739727      8.679701        excluding marked processes    
+3          3210.000000     56.656862       Unweighted events, alpha=0.154313
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b4j4_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          394.880637      7.633305        total sum                     
+4          390.060596      7.629966        excluding marked processes    
+4          2613.000000     51.117512       Unweighted events, alpha=0.151122
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b4j4_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          349.678092      7.255695        total sum                     
+5          343.461014      7.251166        excluding marked processes    
+5          2244.000000     47.370877       Unweighted events, alpha=0.155828
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b4j4_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          290.909472      6.720801        total sum                     
+6          283.385323      6.714662        excluding marked processes    
+6          1781.000000     42.201896       Unweighted events, alpha=0.163341
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b4j4_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          232.698968      6.820031        total sum                     
+7          223.596201      6.812951        excluding marked processes    
+7          1077.000000     32.817678       Unweighted events, alpha=0.216062
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b4j4_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          196.784478      5.767523        total sum                     
+8          181.723408      5.754258        excluding marked processes    
+8          997.000000      31.575307       Unweighted events, alpha=0.197377
+  => Total parameter prop_bindc_hbb_year_2017_DNN_Hct_b4j4_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel dc_hbb_year_2018_DNN_Hct_b2j3 will use autoMCStats with settings: event-threshold=0.1, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bindc_hbb_year_2018_DNN_Hct_b2j3
+Poisson cut-off: 0.1
+Processes excluded for sums: Hct
+============================================================
+Bin        Contents        Error           Notes                         
+0          9998.669691     56.882647       total sum                     
+0          9997.521278     56.882472       excluding marked processes    
+0          30891.000000    175.758357      Unweighted events, alpha=0.323676
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j3_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          86311.369350    1817.970720     total sum                     
+1          86286.295410    1817.970600     excluding marked processes    
+1          2253.000000     47.465777       Unweighted events, alpha=38.309529
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j3_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          143717.836418   402.568714      total sum                     
+2          143640.473511   402.567078      excluding marked processes    
+2          127314.000000   356.810874      Unweighted events, alpha=1.128846
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j3_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          172509.137512   4237.465170     total sum                     
+3          172375.423828   4237.464897     excluding marked processes    
+3          1655.000000     40.681691       Unweighted events, alpha=104.235128
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j3_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          158071.700424   2057.370002     total sum                     
+4          157893.368652   2057.369260     excluding marked processes    
+4          5890.000000     76.746335       Unweighted events, alpha=26.837301
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j3_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          143011.918167   4954.027469     total sum                     
+5          142807.044678   4954.027113     excluding marked processes    
+5          831.000000      28.827071       Unweighted events, alpha=172.096171
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j3_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          96619.984314    1365.305410     total sum                     
+6          96419.814209    1365.304132     excluding marked processes    
+6          4987.000000     70.618694       Unweighted events, alpha=19.374370
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j3_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          53818.030014    2136.272216     total sum                     
+7          53653.666016    2136.271552     excluding marked processes    
+7          631.000000      25.119713       Unweighted events, alpha=85.290063
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j3_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          17115.906036    463.898075      total sum                     
+8          17030.231750    463.896571      excluding marked processes    
+8          1348.000000     36.715120       Unweighted events, alpha=12.697260
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j3_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+9          1051.167324     156.323511      total sum                     
+9          1040.901440     156.323023      excluding marked processes    
+9          44.000000       6.633250        Unweighted events, alpha=23.890166
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j3_bin9[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel dc_hbb_year_2018_DNN_Hct_b2j4 will use autoMCStats with settings: event-threshold=0.1, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bindc_hbb_year_2018_DNN_Hct_b2j4
+Poisson cut-off: 0.1
+Processes excluded for sums: Hct
+============================================================
+Bin        Contents        Error           Notes                         
+0          79383.400404    138.857874      total sum                     
+0          79375.500000    138.857365      excluding marked processes    
+0          326765.000000   571.633624      Unweighted events, alpha=0.242937
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j4_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          232150.184475   251.660722      total sum                     
+1          232090.972656   251.658644      excluding marked processes    
+1          850536.000000   922.245087      Unweighted events, alpha=0.272946
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j4_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          244263.741310   277.802870      total sum                     
+2          244148.671875   277.799190      excluding marked processes    
+2          772408.000000   878.867453      Unweighted events, alpha=0.316237
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j4_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          220814.756454   274.064267      total sum                     
+3          220652.350586   274.059066      excluding marked processes    
+3          648229.000000   805.126698      Unweighted events, alpha=0.340643
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j4_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          188105.413742   272.876384      total sum                     
+4          187907.366699   272.869909      excluding marked processes    
+4          474216.000000   688.633429      Unweighted events, alpha=0.396666
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j4_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          151556.949265   249.944595      total sum                     
+5          151334.021484   249.936637      excluding marked processes    
+5          366618.000000   605.489884      Unweighted events, alpha=0.413392
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j4_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          114613.350723   226.728609      total sum                     
+6          114374.341797   226.719059      excluding marked processes    
+6          254496.000000   504.475966      Unweighted events, alpha=0.450354
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j4_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          79193.814255    205.845279      total sum                     
+7          78941.569336    205.834241      excluding marked processes    
+7          147088.000000   383.520534      Unweighted events, alpha=0.538411
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j4_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          42742.462830    159.235749      total sum                     
+8          42503.323242    159.222235      excluding marked processes    
+8          71259.000000    266.943814      Unweighted events, alpha=0.599818
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j4_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+9          7631.926529     72.796961       total sum                     
+9          7541.367371     72.786358       excluding marked processes    
+9          10735.000000    103.609845      Unweighted events, alpha=0.710939
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b2j4_bin9[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel dc_hbb_year_2018_DNN_Hct_b3j3 will use autoMCStats with settings: event-threshold=0.1, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bindc_hbb_year_2018_DNN_Hct_b3j3
+Poisson cut-off: 0.1
+Processes excluded for sums: Hct
+============================================================
+Bin        Contents        Error           Notes                         
+0          1583.460671     23.479957       total sum                     
+0          1580.810471     23.478994       excluding marked processes    
+0          4533.000000     67.327558       Unweighted events, alpha=0.349318
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b3j3_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          4815.536627     51.366408       total sum                     
+1          4801.350555     51.363978       excluding marked processes    
+1          8738.000000     93.477270       Unweighted events, alpha=0.551103
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b3j3_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          6957.578068     58.455916       total sum                     
+2          6924.881287     58.451229       excluding marked processes    
+2          14036.000000    118.473626      Unweighted events, alpha=0.495695
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b3j3_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          7560.909775     55.279744       total sum                     
+3          7508.545227     55.272043       excluding marked processes    
+3          18454.000000    135.845500      Unweighted events, alpha=0.409717
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b3j3_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          7149.731598     54.270267       total sum                     
+4          7083.924957     54.260649       excluding marked processes    
+4          17044.000000    130.552671      Unweighted events, alpha=0.419487
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b3j3_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          5740.154503     63.371623       total sum                     
+5          5669.492401     63.363176       excluding marked processes    
+5          8006.000000     89.476254       Unweighted events, alpha=0.716982
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b3j3_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          3567.927151     36.259309       total sum                     
+6          3506.304565     36.246598       excluding marked processes    
+6          9358.000000     96.736756       Unweighted events, alpha=0.381270
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b3j3_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          1318.804977     21.312949       total sum                     
+7          1290.268295     21.303477       excluding marked processes    
+7          3668.000000     60.564016       Unweighted events, alpha=0.359543
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b3j3_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel dc_hbb_year_2018_DNN_Hct_b3j4 will use autoMCStats with settings: event-threshold=0.1, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bindc_hbb_year_2018_DNN_Hct_b3j4
+Poisson cut-off: 0.1
+Processes excluded for sums: Hct
+============================================================
+Bin        Contents        Error           Notes                         
+0          23221.892654    103.495379      total sum                     
+0          23200.517944    103.493536      excluding marked processes    
+0          50254.000000    224.174040      Unweighted events, alpha=0.462090
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b3j4_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          26495.725826    95.520917       total sum                     
+1          26447.637817    95.516546       excluding marked processes    
+1          76668.000000    276.889870      Unweighted events, alpha=0.345590
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b3j4_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          25646.699921    93.008907       total sum                     
+2          25571.437256    93.001980       excluding marked processes    
+2          75601.000000    274.956360      Unweighted events, alpha=0.339238
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b3j4_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          22366.980141    85.368078       total sum                     
+3          22271.904663    85.358744       excluding marked processes    
+3          68080.000000    260.921444      Unweighted events, alpha=0.328540
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b3j4_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          18575.752312    79.011808       total sum                     
+4          18464.005127    79.000364       excluding marked processes    
+4          54625.000000    233.719918      Unweighted events, alpha=0.340060
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b3j4_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          14447.751404    67.235838       total sum                     
+5          14314.200500    67.219552       excluding marked processes    
+5          45346.000000    212.946003      Unweighted events, alpha=0.318611
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b3j4_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          10351.292389    56.103857       total sum                     
+6          10205.009888    56.082685       excluding marked processes    
+6          33111.000000    181.964282      Unweighted events, alpha=0.312624
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b3j4_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          7284.130798     55.988381       total sum                     
+7          7094.846741     55.960755       excluding marked processes    
+7          16074.000000    126.783280      Unweighted events, alpha=0.453162
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b3j4_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          1387.927376     19.369872       total sum                     
+8          1281.768883     19.326517       excluding marked processes    
+8          4399.000000     66.324958       Unweighted events, alpha=0.315510
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b3j4_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+Channel dc_hbb_year_2018_DNN_Hct_b4j4 will use autoMCStats with settings: event-threshold=0.1, include-signal=0, hist-mode=1
+============================================================
+Analysing bin errors for: prop_bindc_hbb_year_2018_DNN_Hct_b4j4
+Poisson cut-off: 0.1
+Processes excluded for sums: Hct
+============================================================
+Bin        Contents        Error           Notes                         
+0          680.744311      14.168131       total sum                     
+0          679.643223      14.167343       excluding marked processes    
+0          2301.000000     47.968740       Unweighted events, alpha=0.295847
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b4j4_bin0[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+1          1641.123795     21.687173       total sum                     
+1          1635.757156     21.684878       excluding marked processes    
+1          5690.000000     75.432089       Unweighted events, alpha=0.288422
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b4j4_bin1[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+2          1462.399095     22.089090       total sum                     
+2          1455.719810     22.086445       excluding marked processes    
+2          4344.000000     65.909028       Unweighted events, alpha=0.336648
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b4j4_bin2[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+3          1192.341949     19.196289       total sum                     
+3          1182.220978     19.191837       excluding marked processes    
+3          3795.000000     61.603571       Unweighted events, alpha=0.314188
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b4j4_bin3[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+4          955.801097      16.947065       total sum                     
+4          945.262413      16.941762       excluding marked processes    
+4          3113.000000     55.794265       Unweighted events, alpha=0.307035
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b4j4_bin4[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+5          747.330648      15.710855       total sum                     
+5          734.786350      15.704043       excluding marked processes    
+5          2189.000000     46.786750       Unweighted events, alpha=0.341403
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b4j4_bin5[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+6          592.266129      13.431950       total sum                     
+6          577.601288      13.422871       excluding marked processes    
+6          1852.000000     43.034870       Unweighted events, alpha=0.319798
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b4j4_bin6[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+7          490.857273      14.305270       total sum                     
+7          472.227417      14.294885       excluding marked processes    
+7          1091.000000     33.030289       Unweighted events, alpha=0.449915
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b4j4_bin7[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+8          372.726065      13.206539       total sum                     
+8          345.645285      13.190292       excluding marked processes    
+8          687.000000      26.210685       Unweighted events, alpha=0.542542
+  => Total parameter prop_bindc_hbb_year_2018_DNN_Hct_b4j4_bin8[0.00,-7.00,7.00] to be gaussian constrained
+------------------------------------------------------------
+
+ -- AsymptoticLimits ( CLs ) --
+Observed Limit: r < 0.2551
+Expected  2.5%: r < 0.1306
+Expected 16.0%: r < 0.1742
+Expected 50.0%: r < 0.2422
+Expected 84.0%: r < 0.3407
+Expected 97.5%: r < 0.4566
+
+Done in 76.52 min (cpu), 76.59 min (real)

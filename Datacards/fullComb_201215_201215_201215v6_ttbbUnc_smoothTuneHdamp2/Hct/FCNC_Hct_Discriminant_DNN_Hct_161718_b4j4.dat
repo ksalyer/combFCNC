@@ -1,0 +1,73 @@
+Combination of year_2016=../../datacards_201215_2016v1_uncUpdate2/Hct/FCNC_Hct_Discriminant_DNN_Hct_b4j4.dat  year_2017=../../datacards_201215_2017v6_ttbbUnc_smoothTuneHdamp/Hct/FCNC_Hct_Discriminant_DNN_Hct_b4j4.dat  year_2018=../../datacards_201215_2018v6_ttbbUnc_smoothTuneHdamp/Hct/FCNC_Hct_Discriminant_DNN_Hct_b4j4.dat
+imax 3 number of bins
+jmax 4 number of processes minus 1
+kmax 53 number of nuisance parameters
+----------------------------------------------------------------------------------------------------------------------------------
+shapes *          year_2016  ../../datacards_201215_2016v1_uncUpdate2/Hct/FCNC_Hct_Discriminant_DNN_Hct_b4j4_shapes.root DNN_Hct_b4j4/$PROCESS DNN_Hct_b4j4/$PROCESS_$SYSTEMATIC
+shapes *          year_2017  ../../datacards_201215_2017v6_ttbbUnc_smoothTuneHdamp/Hct/FCNC_Hct_Discriminant_DNN_Hct_b4j4_shapes.root DNN_Hct_b4j4/$PROCESS DNN_Hct_b4j4/$PROCESS_$SYSTEMATIC
+shapes *          year_2018  ../../datacards_201215_2018v6_ttbbUnc_smoothTuneHdamp/Hct/FCNC_Hct_Discriminant_DNN_Hct_b4j4_shapes.root DNN_Hct_b4j4/$PROCESS DNN_Hct_b4j4/$PROCESS_$SYSTEMATIC
+----------------------------------------------------------------------------------------------------------------------------------
+bin          year_2016  year_2017  year_2018
+observation  2764       4068       8913     
+----------------------------------------------------------------------------------------------------------------------------------
+bin                                            year_2016  year_2016  year_2016  year_2016  year_2016  year_2017  year_2017  year_2017  year_2017  year_2017  year_2018  year_2018  year_2018  year_2018  year_2018
+process                                        Hct        ttcc       ttbb       other      ttlf       Hct        ttcc       ttbb       other      ttlf       Hct        ttcc       ttbb       other      ttlf     
+process                                        0          1          2          3          4          0          1          2          3          4          0          1          2          3          4        
+rate                                           73.838     468.409    1370.48    272.701    524.439    109.636    522.375    2209.36    344.476    590.23     222.544    1251.22    4307.63    692.806    1777.21  
+----------------------------------------------------------------------------------------------------------------------------------
+CMS_2016_CSVv2cferr1    shape                  1.0        1.0        1.0        1.0        1.0        -          -          -          -          -          -          -          -          -          -        
+CMS_2016_CSVv2cferr2    shape                  1.0        1.0        1.0        1.0        1.0        -          -          -          -          -          -          -          -          -          -        
+CMS_2016_CSVv2hf        shape                  1.0        1.0        1.0        1.0        1.0        -          -          -          -          -          -          -          -          -          -        
+CMS_2016_CSVv2hfstat1   shape                  1.0        1.0        1.0        1.0        1.0        -          -          -          -          -          -          -          -          -          -        
+CMS_2016_CSVv2hfstat2   shape                  1.0        1.0        1.0        1.0        1.0        -          -          -          -          -          -          -          -          -          -        
+CMS_2016_CSVv2lf        shape                  1.0        1.0        1.0        1.0        1.0        -          -          -          -          -          -          -          -          -          -        
+CMS_2016_CSVv2lfstat1   shape                  1.0        1.0        1.0        1.0        1.0        -          -          -          -          -          -          -          -          -          -        
+CMS_2016_CSVv2lfstat2   shape                  1.0        1.0        1.0        1.0        1.0        -          -          -          -          -          -          -          -          -          -        
+CMS_2016_jec            shape                  1.0        1.0        1.0        1.0        1.0        -          -          -          -          -          -          -          -          -          -        
+CMS_2016_jer            shape                  1.0        1.0        1.0        1.0        1.0        -          -          -          -          -          -          -          -          -          -        
+CMS_2017_hfstat1        shape                  -          -          -          -          -          1.0        1.0        1.0        1.0        1.0        -          -          -          -          -        
+CMS_2017_hfstat2        shape                  -          -          -          -          -          1.0        1.0        1.0        1.0        1.0        -          -          -          -          -        
+CMS_2017_jer            shape                  -          -          -          -          -          1.0        1.0        1.0        1.0        1.0        -          -          -          -          -        
+CMS_2017_lfstat1        shape                  -          -          -          -          -          1.0        1.0        1.0        1.0        1.0        -          -          -          -          -        
+CMS_2017_lfstat2        shape                  -          -          -          -          -          1.0        1.0        1.0        1.0        1.0        -          -          -          -          -        
+CMS_2017_prefire        shape                  -          -          -          -          -          1.0        1.0        1.0        1.0        1.0        -          -          -          -          -        
+CMS_2018_hfstat1        shape                  -          -          -          -          -          -          -          -          -          -          1.0        1.0        1.0        1.0        1.0      
+CMS_2018_hfstat2        shape                  -          -          -          -          -          -          -          -          -          -          1.0        1.0        1.0        1.0        1.0      
+CMS_2018_jer            shape                  -          -          -          -          -          -          -          -          -          -          1.0        1.0        1.0        1.0        1.0      
+CMS_2018_lfstat1        shape                  -          -          -          -          -          -          -          -          -          -          1.0        1.0        1.0        1.0        1.0      
+CMS_2018_lfstat2        shape                  -          -          -          -          -          -          -          -          -          -          1.0        1.0        1.0        1.0        1.0      
+CMS_TuneCP5             shape                  -          -          -          -          -          -          1.0        1.0        -          1.0        -          1.0        1.0        -          1.0      
+CMS_TuneCUETP           shape                  -          1.0        1.0        -          1.0        -          -          -          -          -          -          -          -          -          -        
+CMS_cferr1              shape                  -          -          -          -          -          1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0      
+CMS_cferr2              shape                  -          -          -          -          -          1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0      
+CMS_hdamp               shape                  -          1.0        1.0        -          1.0        -          1.0        1.0        -          1.0        -          1.0        1.0        -          1.0      
+CMS_hf                  shape                  -          -          -          -          -          1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0      
+CMS_jecAbsolute         shape                  -          -          -          -          -          1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0      
+CMS_jecAbsolute2017     shape                  -          -          -          -          -          1.0        1.0        1.0        1.0        1.0        -          -          -          -          -        
+CMS_jecAbsolute2018     shape                  -          -          -          -          -          -          -          -          -          -          1.0        1.0        1.0        1.0        1.0      
+CMS_jecBBEC1            shape                  -          -          -          -          -          1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0      
+CMS_jecBBEC12017        shape                  -          -          -          -          -          1.0        1.0        1.0        1.0        1.0        -          -          -          -          -        
+CMS_jecBBEC12018        shape                  -          -          -          -          -          -          -          -          -          -          1.0        1.0        1.0        1.0        1.0      
+CMS_jecFlavorQCD        shape                  -          -          -          -          -          1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0      
+CMS_jecRelativeBal      shape                  -          -          -          -          -          1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0      
+CMS_jecRelativeSample2017   shape              -          -          -          -          -          1.0        1.0        1.0        1.0        1.0        -          -          -          -          -        
+CMS_jecRelativeSample2018   shape              -          -          -          -          -          -          -          -          -          -          1.0        1.0        1.0        1.0        1.0      
+CMS_lepton              shape                  1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0      
+CMS_lf                  shape                  -          -          -          -          -          1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0      
+CMS_lumi_corr_161718    lnN                    1.006      1.006      1.006      1.006      1.006      1.009      1.009      1.009      1.009      1.009      1.02       1.02       1.02       1.02       1.02     
+CMS_lumi_corr_1718      lnN                    -          -          -          -          -          1.006      1.006      1.006      1.006      1.006      1.002      1.002      1.002      1.002      1.002    
+CMS_lumi_uncorr_2016    lnN                    1.01       1.01       1.01       1.01       1.01       -          -          -          -          -          -          -          -          -          -        
+CMS_lumi_uncorr_2017    lnN                    -          -          -          -          -          1.02       1.02       1.02       1.02       1.02       -          -          -          -          -        
+CMS_lumi_uncorr_2018    lnN                    -          -          -          -          -          -          -          -          -          -          1.015      1.015      1.015      1.015      1.015    
+CMS_pdf                 shape                  -          1.0        1.0        -          1.0        1.0        1.0        1.0        -          1.0        1.0        1.0        1.0        -          1.0      
+CMS_ps                  shape                  -          -          -          -          -          1.0        1.0        1.0        -          1.0        1.0        1.0        1.0        -          1.0      
+CMS_pu                  shape                  1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0        1.0      
+CMS_scale               shape                  -          1.0        1.0        -          1.0        1.0        1.0        1.0        -          1.0        1.0        1.0        1.0        -          1.0      
+Other_xsec              lnN                    -          -          -          1.1        -          -          -          -          1.1        -          -          -          -          1.1        -        
+tt_xsec                 lnN                    -          1.055      1.055      -          1.055      -          1.055      1.055      -          1.055      -          1.055      1.055      -          1.055    
+ttbb_norm_b4            lnN                    -          -          -          -          -          -          -          1.2        -          -          -          -          1.2        -          -        
+ttbb_norm_b4_2016       lnN                    -          -          1.3        -          -          -          -          -          -          -          -          -          -          -          -        
+ttcc_norm_b4            lnN                    -          1.5        -          -          -          -          1.5        -          -          -          -          1.5        -          -          -        
+year_2018 autoMCStats 0.1 0 1
+year_2016 autoMCStats 0.1 0 1
+year_2017 autoMCStats 0.1 0 1
