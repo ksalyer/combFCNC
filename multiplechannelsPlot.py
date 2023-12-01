@@ -36,11 +36,11 @@ results = [\
     },
     {   'name': 'hss_tuh',
         'tex': 'leptonic',
-        'limits': {'obs': [(0.073,0.073)], 'exp': [(0.059,0.059)], '1sigma': [(0.043, 0.083)], '2sigma': [(0.032, 0.11)]}
+        'limits': {'obs': [(0.072,0.072)], 'exp': [(0.059,0.059)], '1sigma': [(0.042, 0.083)], '2sigma': [(0.032, 0.11)]}
     },
     {   'name': 'comb_tuh',
         'tex': 'combined',
-        'limits': {'obs': [(0.0188,0.0188)], 'exp': [(0.0283,0.0283)], '1sigma': [(0.02, 0.0403)], '2sigma': [(0.0147, 0.05497)]}
+        'limits': {'obs': [(0.0187,0.0187)], 'exp': [(0.0266,0.0266)], '1sigma': [(0.0185, 0.0382)], '2sigma': [(0.0133, 0.0523)]}
     },
     {   'name': 'hbb_tch',
         'tex': 'H#rightarrow b#bar{b}',
@@ -52,11 +52,11 @@ results = [\
     },
     {   'name': 'hss_tch',
         'tex': 'leptonic',
-        'limits': {'obs': [(0.041,0.041)], 'exp': [(0.060,0.060)], '1sigma': [(0.042, 0.086)], '2sigma': [(0.031, 0.121)]}
+        'limits': {'obs': [(0.043,0.043)], 'exp': [(0.062,0.062)], '1sigma': [(0.0435, 0.0827)], '2sigma': [(0.032, 0.112)]}
     },
     {   'name': 'comb_tch',
         'tex': 'combined',
-        'limits': {'obs': [(0.037,0.037)], 'exp': [(0.035,0.035)], '1sigma': [(0.0251, 0.0491)], '2sigma': [(0.0188, 0.0658)]}
+        'limits': {'obs': [(0.0374,0.0374)], 'exp': [(0.0350,0.0350)], '1sigma': [(0.0251, 0.0492)], '2sigma': [(0.0189, 0.0657)]}
     },
 ]
 
@@ -244,7 +244,7 @@ latex5 = ROOT.TLatex()
 latex5.SetNDC()
 latex5.SetTextSize(0.05)
 latex5.SetTextAlign(11)
-latex5.DrawLatex(0.575, 0.01, '#bf{Branching Ratio (%)}')
+latex5.DrawLatex(0.45, 0.01, '#bf{Branching fraction (%)}')
 
 plotDir = args.out + "/summary/"
 
